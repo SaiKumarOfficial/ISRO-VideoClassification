@@ -1,0 +1,104 @@
+item {
+    id: 1
+    name: 'm6p'
+}
+item {
+    id: 2
+    name: 'Truck'
+}
+item {
+    id: 3
+    name: 'Isro_logo'
+}
+item {
+    id: 4
+    name: 'amsat_logo'
+}
+item {
+    id: 5
+    name: 'cpi_sat'
+}
+item {
+    id: 6
+    name: 'lemur'
+}
+item {
+    id: 7
+    name: 'tower'
+}
+item {
+    id: 8
+    name: 'flag'
+}
+item {
+    id: 9
+    name: 'flock'
+}
+item {
+    id: 10
+    name: 'map'
+}
+item {
+    id: 11
+    name: 'sky'
+}
+item {
+    id: 12
+    name: 'bluewalker'
+}
+item {
+    id: 13
+    name: 'msd'
+}
+item {
+    id: 14
+    name: 'astrocast'
+}
+item {
+    id: 15
+    name: 'Rocket'
+}
+item {
+    id: 16
+    name: 'Building'
+}
+item {
+    id: 17
+    name: 'logo'
+}
+item {
+    id: 18
+    name: 'analyzer'
+}
+item {
+    id: 19
+    name: 'design'
+}
+item {
+    id: 20
+    name: 'ship'
+}
+item {
+    id: 21
+    name: 'aistechsat'
+}
+item {
+    id: 22
+    name: 'Machine'
+}
+item {
+    id: 23
+    name: 'channel_logo'
+}
+item {
+    id: 24
+    name: 'person'
+}
+item {
+    id: 25
+    name: 'system'
+}
+item {
+    id: 26
+    name: 'space'
+}
